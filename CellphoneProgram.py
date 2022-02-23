@@ -18,6 +18,7 @@ def main():
     userphone.set_manufact = 'Apple'
     userphone.set_retail_price = '$12'
     
+    print(userphone)
 
 
 
